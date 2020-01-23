@@ -2,6 +2,7 @@
 
 (package-file "ros.el")
 (depends-on "s")
+(depends-on "hydra")
 
 (development
  
